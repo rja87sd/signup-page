@@ -6,3 +6,4 @@ A signup page for my Book Club
 |---|---------------|----------------|--------|
 | 1 | Created page skeleton | Create page skeleton | Main |
 | 2 | Added stylesheet with basic styling | Add style.css with basic styling and link to index.html | Main |
+| 3 | Added extra styling and box model to each section | Add extra styling and add box model to each section | Main |
