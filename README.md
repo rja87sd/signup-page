@@ -12,3 +12,4 @@ A signup page for my Book Club
 | 6 | Added styling to signup form | Style the signup form | Main |
 | 7 | Added focus and invalid styles to style.css | Add focus and invalid styles | Main |
 | 8 | Added a next meeting button to index.html and JavaScript functionality to script.js | Add next meeting button and JavaScript functionality | Main |
+| 9 | Added a row of cards to index.html and flexbox for the cards in style.css | Add card row with flexbox | Main |
