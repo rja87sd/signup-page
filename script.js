@@ -18,3 +18,12 @@ function sayBye() {
 
 sayBye();
 sayBye();
+
+let nextButton = document.querySelector("#next-btn");
+let nextMeeting = document.querySelector("#next-meeting");
+
+function showNextMeeting() {
+  nextMeeting.textContent = "Our next meeting is Sunday, November 1 at 5 PM.";
+}
+
+nextButton.addEventListener("click", showNextMeeting);
