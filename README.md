@@ -14,3 +14,4 @@ A signup page for my Book Club
 | 8 | Added a next meeting button to index.html and JavaScript functionality to script.js | Add next meeting button and JavaScript functionality | Main |
 | 9 | Added a row of cards to index.html and flexbox for the cards in style.css | Add card row with flexbox | Main |
 | 10 | Added password field to index.html | Add password field | Main |
+| 11 | Added flexbox styling to form in index.html | Lay out form with flexbox | Main |
