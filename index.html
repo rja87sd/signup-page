@@ -59,6 +59,27 @@
             <p>
                 Please fill out the form below to register.
             </p>
+
+            <form autocomplete="off">
+                <label for="name">Your Name</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email" placeholder="you@example.com" required>
+
+                <label for="drowpdown">Which meeting can you attend?</label>
+                <select name="dropdown" id="dropdown" name="dropdown">
+                    <option value="">Choose a session</option>
+                    <option value="first">First Sunday</option>
+                    <option value="third">Third Sunday</option>
+                    <option value="either">Either is fine</option>
+                </select>
+
+                <label for="message">Anything we should know?</label>
+                <textarea name="message" id="message" rows="4"></textarea>
+
+                <button type="submit">Sign me up!</button>
+            </form>
         </section>
     </main>
 
