@@ -9,3 +9,4 @@ A signup page for my Book Club
 | 3 | Added extra styling and box model to each section | Add extra styling and add box model to each section | Main |
 | 4 | Added script.js and linked to index.html, as well as some basic JavaScript | Add script.js, link to index.html, and add basic JavaScript | Main |
 | 5 | Added a signup form to index.html | Add signup form to index.html | Main |
+| 6 | Added styling to signup form | Style the signup form | Main |
