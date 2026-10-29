@@ -55,3 +55,15 @@ button {
   padding: 10px 20px;
   font: inherit;
 }
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: 3px solid #212227;
+  outline-offset: 2px;
+}
+
+input:user-invalid {
+  border: 2px solid crimson;
+}
