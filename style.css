@@ -42,7 +42,9 @@ label {
   font-weight: bold;
 }
 
-input, select, textarea {
+input,
+select,
+textarea {
   width: 100%;
   max-width: 30rem;
   padding: 8px;
@@ -70,6 +72,7 @@ input:user-invalid {
   display: flex;
   gap: 16px;
   flex-wrap: wrap;
+  padding: 10px;
 }
 
 .card {
@@ -89,4 +92,27 @@ form {
   display: flex;
   flex-direction: column;
   gap: 4px;
+}
+
+.hero {
+  background-color: rgba(0, 100, 0, 0.85);
+  padding: 64px 24px;
+  border-radius: 8px;
+}
+
+.hero > h2 {
+  color: white;
+}
+
+.hero > p {
+  color: white;
+}
+
+.cta {
+  display: inline-block;
+  background-color: gold;
+  padding: 12px 24px;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
 }
