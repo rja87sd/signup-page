@@ -116,3 +116,9 @@ form {
   font-weight: bold;
   text-decoration: none;
 }
+
+@media (min-width: 700px) {
+  .hero > h2 {
+    font-size: 3rem;
+  }
+}

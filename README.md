@@ -16,3 +16,4 @@ A signup page for my Book Club
 | 10 | Added password field to index.html | Add password field | Main |
 | 11 | Added flexbox styling to form in index.html | Lay out form with flexbox | Main |
 | 12 | Added hero section with call to action, and styling | Add hero with call to action | Main |
+| 13 | Added a media query for the hero section | Add media query for hero | Main |
