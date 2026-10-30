@@ -1,6 +1,13 @@
 # signup-page
 A signup page for my Book Club
 
+Page Link: https://rja87sd.github.io/signup-page/
+
+## What I used
+- Dark Mode
+- Media query
+- Flexbox (Refresher)
+- Focus and invalid styles
 
 | # | What changed? | Commit Message | Branch |
 |---|---------------|----------------|--------|
@@ -18,3 +25,4 @@ A signup page for my Book Club
 | 12 | Added hero section with call to action, and styling | Add hero with call to action | Main |
 | 13 | Added a media query for the hero section | Add media query for hero | Main |
 | 14 | Added dark mode functionality | Add dark mode | Main |
+| 15 | Updated README | Update README.md | Main |
